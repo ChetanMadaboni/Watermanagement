@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346244672045",
+    "project_id": "watermanagement1-324e3",
+    "storage_bucket": "watermanagement1-324e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346244672045:android:d3f42d98e3c3c696ebe6a4",
+        "android_client_info": {
+          "package_name": "com.example.watermanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346244672045-tnn1j9u8l09tc167se50j7d2sbj5kos5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwX7WBWZOM-bEXqAr70nr7oefYEZzm1po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346244672045-tnn1j9u8l09tc167se50j7d2sbj5kos5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
